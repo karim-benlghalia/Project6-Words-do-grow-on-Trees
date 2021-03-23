@@ -20,3 +20,4 @@ We must store the words and the counts of the words in a single binary search tr
 
 * The header file should be called wordtree.h, and the definitions for member functions must be in file wordtree.cpp. You must use the main function words.cpp. You must finish writing this file and create the other two files yourself.
 
+The link to the assignment: http://www.solomonlrussell.com/fall16/cs2/Projects/6/spec.html
