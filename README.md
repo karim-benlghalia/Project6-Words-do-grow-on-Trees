@@ -6,11 +6,6 @@ We must store the words and the counts of the words in a single binary search tr
 
 ### The assignment contains the following public functions: ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
 
 * Destructor and default constructor
 * Add: adds the given word to the tree if it is not already in the tree OR increments the appropriate counter if it is already there. It returns nothing.
@@ -24,6 +19,4 @@ We must store the words and the counts of the words in a single binary search tr
 * The WordTree class may have only one member variable, root, and it must be private. It contains the address of the root node of the tree.
 
 * The header file should be called wordtree.h, and the definitions for member functions must be in file wordtree.cpp. You must use the main function words.cpp. You must finish writing this file and create the other two files yourself.
-
-I suggest that you read in the data character by character using get. Here are some test text files to use doi.txt (Declaration of Independence), and odyssey.txt (Book 1 of The Odyssey). Their results should look like this doi_results.txt and odyssey_results.txt.
 
